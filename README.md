@@ -26,7 +26,7 @@ Ten projekt to kompaktowy, energooszczędny moduł komunikacyjny oparty na mikro
 - Zmodyfikowana antena Bluetooth (30 mm drucik) zapewnia stabilne połączenie z aplikacją  
 - Enkoder umożliwia nawigację po menu *Canned Messages*, co pozwala na szybką i niezależną komunikację  
 - Brzęczyk sygnalizuje nowe wiadomości — możesz zaprogramować własne dźwięki dzięki obsłudze PWM  
-- Czujniki środowiskowe (AHT20 + BMP280) rejestrują aktualne dane pogodowe w okolicy
+- Czujniki środowiskowe w wersji "PRO" (AHT20 + BMP280) rejestrują aktualne dane pogodowe w okolicy
 
 ---
 
