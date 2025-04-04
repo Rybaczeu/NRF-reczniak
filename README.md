@@ -13,4 +13,4 @@ Node składa się z: </br>
 </br></br></br>
 <img src="https://github.com/user-attachments/assets/b9798a35-5fb6-4e54-90b2-8c28fe8425ec" alt="Alt Text" style="width:30%; height:auto;">
 <img src="https://github.com/user-attachments/assets/3ff9ce18-3de3-4c27-901f-67a4434ba50b" alt="Alt Text" style="width:29%; height:auto;">
-<img src="https://github.com/user-attachments/assets/b4d851e5-690a-4d46-85b7-ccf205c1c074" alt="Alt Text" style="width:33%; height:auto;">
+<img src="https://github.com/user-attachments/assets/b4d851e5-690a-4d46-85b7-ccf205c1c074" alt="Alt Text" style="width:34%; height:auto;">
