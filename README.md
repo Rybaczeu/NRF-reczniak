@@ -4,7 +4,7 @@ Dokumentacja podręcznego noda meshtastic opartego na płytce faketec  </br>
 Node składa się z: </br>
 -Płytka FakeTec V4 (https://github.com/gargomoma/fakeTec_pcb/issues/16#issue-2780231821) </br>
 -Moduł LoRa HT-RA62 (lub RA-01SH) </br>
--Wyświetlacz OLED (rózne kolory) </br>
+-Wyświetlacz OLED (różne kolory) </br>
 -Akumulator Li-Ion LG MH1 18650 3200mAh (wersja "PRO" z dwoma aku) </br>
 -Enkoder obrotowy do obsługi Canned Messages (wysyłanie predefiniowanych wiadomości bez podłączania tel) </br>
 -brzęczyk (powiadomienia dzwiękowe o wiadomościach itp.) </br>
