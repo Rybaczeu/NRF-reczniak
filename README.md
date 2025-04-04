@@ -37,3 +37,14 @@ Ten projekt to kompaktowy, energooszczędny moduł komunikacyjny oparty na mikro
   <img src="https://github.com/user-attachments/assets/3ff9ce18-3de3-4c27-901f-67a4434ba50b" alt="NRF-ręczniak - widok 2" width="30%" />
   <img src="https://github.com/user-attachments/assets/b4d851e5-690a-4d46-85b7-ccf205c1c074" alt="NRF-ręczniak - widok 3" width="30%" />
 </p>
+---
+
+## 🔌 Ładowanie
+
+Moduł ładowany jest przez port **USB-C**, z maksymalnym prądem ładowania wynoszącym **500 mA**.
+
+---
+
+## 🛠️ TODO
+
+- 🔧 Stacja ładująca ze złączem magnetycznym, umożliwiająca ładowanie akumulatora prądem do **3 A**
