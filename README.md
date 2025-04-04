@@ -11,5 +11,6 @@ Node składa się z: </br>
 -czujniki AHT20+BMP280 (umożliwiają pomiar wilgoci temperatury oraz ciśnienia. Dostępne w wersji "PRO") </br>
 -Antena Gizont 167mm (SWR~1-1.3) </br>
 </br></br></br>
-<img src="[image-url](https://github.com/user-attachments/assets/b9798a35-5fb6-4e54-90b2-8c28fe8425ec)" alt="Alt Text" width="300" height="200">
+<img src="[https://github.com/user-attachments/assets/b9798a35-5fb6-4e54-90b2-8c28fe8425ec]" alt="Alt Text" width="300" height="200">
+
 
